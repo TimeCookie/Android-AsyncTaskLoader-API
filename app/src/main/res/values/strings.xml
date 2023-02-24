@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LifeCost</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_desc">Logo</string>
+    <string name="country_label">Country</string>
+    <string name="city_label">City</string>
+    <string name="check_button_label">Know your cost</string>
+    <string name="countries_warning">Not all countries are available as of now.</string>
+    <string name="city_hint">City, e.g: Tokyo, Washington, Santa Maria</string>
+</resources>
